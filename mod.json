@@ -1,0 +1,14 @@
+{
+  "name": "More Jumps",
+  "folder": "phantombladezero_morejumps",
+  "author": "Kintaro",
+  "version": "1.3",
+  "description": "A double or triple jump: press the jump key in the air to jump again, up and in the direction you hold, relative to the camera. Two jumps by default, three with Jumps = 3; jumps, speeds, keys and the effect are set in config.lua, live in game.",
+  "kind": "ue4ss",
+  "game": "phantombladezero",
+  "gameFolder": "PBZ",
+  "win64Path": "platform\\steam",
+  "gameVersion": "CL-302256_JKS-17280",
+  "engine": "UE5_7",
+  "ue4ss": "v4.0.0"
+}
