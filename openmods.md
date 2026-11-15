@@ -21,7 +21,7 @@ mod itself writes nothing into your save.
 
 ## Screenshots
 
-![More Jumps](docs/cover.png)
+![More Jumps](docs/cover.webp)
 
 ## How to install
 
